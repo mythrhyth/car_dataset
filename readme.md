@@ -29,7 +29,7 @@ This is an interactive dashboard built with **Streamlit** to analyze the U.S. `c
 
 ## 🚀 Deployment
 
-This app is deployed on [Streamlit Community Cloud](https://streamlit.io/cloud).
+This app is deployed on [Streamlit Community Cloud](https://cardataset-xr6zk5hvxjv5t2mskh92kv.streamlit.app/).
 
 To run locally:
 
